@@ -1,0 +1,1 @@
+Memory Game Alexa Skill built with Flask and Flask-Ask using John Wheeler's template.
