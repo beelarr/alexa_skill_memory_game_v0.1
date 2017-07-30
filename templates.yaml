@@ -1,7 +1,7 @@
-welcome: Welcome to memory game created by Bryon Larrance. I'm going to say three numbers for you to repeat backwards. Ready?
+welcome: Welcome to memory game created by Bryon. I'm going to say three numbers for you to repeat backwards. Ready?
 
 round: Can you repeat the numbers {{ numbers|join(", ") }} backwards?
 
 win: Good job, you're a genius!
 
-lose: Sorry, that's the wrong answer, dummy. Maybe you'll get smarter if you try again.
+lose: Sorry, that's the wrong answer. Maybe you'll get smarter if you try again.
